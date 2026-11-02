@@ -1,4 +1,3 @@
-# banco-dados-formula1-mysql
 # Banco de Dados Fórmula 1 - MySQL
 
 Projeto acadêmico desenvolvido com o objetivo de praticar conceitos de **Banco de Dados Relacional utilizando MySQL**, através da criação e manipulação de um banco de dados baseado no universo da Fórmula 1.
