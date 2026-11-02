@@ -84,6 +84,12 @@ Exemplos:
 
 Este projeto foi desenvolvido como parte dos estudos de Banco de Dados durante o curso de **Análise e Desenvolvimento de Sistemas**, com o objetivo de aplicar na prática conceitos de modelagem, relacionamento entre tabelas e manipulação de dados utilizando SQL.
 
+## Demonstração Visual
+
+A imagem abaixo apresenta o banco `db_formula1` no MySQL Workbench, com suas tabelas e parte da estrutura SQL utilizada no projeto.
+
+![Banco de Dados Fórmula 1 no MySQL Workbench](mysql-workbench-formula1.png)
+
 ## 📄 Licença
 
 Este projeto está sob a licença **MIT**.
